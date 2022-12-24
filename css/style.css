@@ -8,13 +8,13 @@
 
 body {
     font-family: 'Segoe UI', Helvetica Nenu, Helvetica, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: linear-gradient(180deg, #dddbd1, #d2dbdc);
+    background-image: linear-gradient(180deg, #dabf3b, #d2dbdc);
 }
 
 .top {
     height: 130px;
     width: 100%;
-    background-color: #009688;
+    background-color: #d6a317;
     position: fixed;
     z-index: -1;
 }
@@ -43,7 +43,7 @@ body {
 
 .name {
     font-weight: 400;
-    color: #000;
+    color: rgb(110, 91, 7);
 }
 
 .under-name {
@@ -64,7 +64,7 @@ body {
 }
 
 .receive {
-    background-color: lightgreen;
+    background-color: #e7e3d6;
     border-radius: 1rem;
     padding: 10px 15px;
     display: inline-block;
